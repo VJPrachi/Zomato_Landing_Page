@@ -1,5 +1,1 @@
-# Zomato_Landing_Page
-This is my landing page clone
-##Done with first commit
-
-Edit done
+This repository contains the frontend code for a Zomato-like web application built using HTML and CSS. It features a responsive layout with restaurant listing cards, a search bar, a navigation menu, and a footer section. To get started, clone the repository and navigate to the project folder. The index.html file holds the main structure, while styles can be customized in style.css for responsiveness. Images should be placed in the images folder. You can view the application by opening index.html in your browser, and for live reloading, consider using a local server or VS Code’s Live Server extension. This project aims to replicate the user interface of Zomato, providing a hands-on experience with HTML and CSS.
